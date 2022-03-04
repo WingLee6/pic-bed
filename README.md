@@ -1,2 +1,2 @@
 # PicBed
-Picture Bed for MarkDown
+Picture Bed for MarkDown.
