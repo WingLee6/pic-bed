@@ -14,7 +14,7 @@
 
 ## 仓库简介
 GiHub图床，用于存储在线图片。
-1. 文件结构：
+1. 文件结构：  
     除了`README.md`文件外，按年份将图片创建目录。   
     >如2022年则创建目录`Pic2022`.
 
@@ -41,10 +41,12 @@ https://github.com/lukelee98/PicBed.git
 ## 直接在GitHub网页复制Markdown图片地址
 步骤：
 1. 找到需要的图片，如：  
-    【地址1】: https://github.com/lukelee98/PicBed/blob/main/Pic2022/getMarkDownOicBedAddressofGitHub.png
+    【地址1】:   
+    https://github.com/lukelee98/PicBed/blob/main/Pic2022/getMarkDownOicBedAddressofGitHub.png
     
 2. 图片->右键->拷贝图像地址，即可得到，如：  
-    【地址2】：https://github.com/lukelee98/PicBed/blob/main/Pic2022/getMarkDownOicBedAddressofGitHub.png?raw=true  
+    【地址2】：  
+    https://github.com/lukelee98/PicBed/blob/main/Pic2022/getMarkDownOicBedAddressofGitHub.png?raw=true  
     
     **注意**：和上面【地址1】的区别就是后面增加了`?raw=true`，表示可以直接展示.  
 
