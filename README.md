@@ -34,7 +34,7 @@ https://github.com/lukelee98/pic-bed.git
 
 4. 上传图片直接拖拽，获取图片地址直接点击  
     也可设置链接的格式（纯图片链接、MD格式、HTML格式等），如：
-    ![](https://raw.githubusercontent.com/lukelee98/PicBed/main/Pic2022/AREPL%20for%20python.png)
+    ![](https://raw.githubusercontent.com/lukelee98/PicBed/main/Pic2022/chunk.png)
 
 5. 从**PicGo**拷贝来的地址乱码
     + 原因：图片名称带有中文的缘故  
