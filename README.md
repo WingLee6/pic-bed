@@ -36,6 +36,12 @@ https://github.com/lukelee98/pic-bed.git
     也可设置链接的格式（纯图片链接、MD格式、HTML格式等），如：
     ![](https://raw.githubusercontent.com/lukelee98/PicBed/main/Pic2022/AREPL%20for%20python.png)
 
+5. 从**PicGo**拷贝来的地址乱码
+    + 原因：图片名称带有中文的缘故  
+    + 解决：将乱码部分（UTF-8）转成汉字（如，`测试` <--> E6B58B E8AF95)  
+        可以使用在线转换器：https://www.qqxiuzi.cn/bianma/zifuji.php
+
+
 ## 直接在GitHub网页复制Markdown图片地址
 步骤：
 1. 找到需要的图片，如：  
