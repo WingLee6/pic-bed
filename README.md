@@ -41,7 +41,6 @@ https://github.com/lukelee98/pic-bed.git
     + 解决：将乱码部分（UTF-8）转成汉字（如，`测试` <--> E6B58B E8AF95)  
         可以使用在线转换器：https://www.qqxiuzi.cn/bianma/zifuji.php
 
-
 ## 直接在GitHub网页复制Markdown图片地址
 步骤：
 1. 找到需要的图片，如：  
@@ -49,7 +48,7 @@ https://github.com/lukelee98/pic-bed.git
     https://github.com/lukelee98/pic-bed/blob/main/pic2022/getMarkDownOicBedAddressofGitHub.png
     
 2. 图片->右键->拷贝图像地址，即可得到，如：  
-    【地址2】：  
+    【地址2】:  
     https://github.com/lukelee98/pic-bed/blob/main/pic2022/getMarkDownOicBedAddressofGitHub.png?raw=true  
     
     **注意**：和上面【地址1】的区别就是后面增加了`?raw=true`，表示可以直接展示.  
