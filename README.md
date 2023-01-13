@@ -30,7 +30,7 @@ https://github.com/lukelee98/pic-bed.git
         + 设定仓库名： lukelee98/pic-bed
         + 设定分支名：main
         + 设定Token：****************
-        + 指定存储路径：pic2022/
+        + 指定存储路径：pic2023/
 
 4. 上传图片直接拖拽，获取图片地址直接点击  
     也可设置链接的格式（纯图片链接、MD格式、HTML格式等），如：
